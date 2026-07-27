@@ -4,6 +4,8 @@
 
 This project analyzes Kimia Farma's business performance from 2020 to 2023. Transaction, branch, and product data were processed using Google BigQuery and visualized through an interactive Looker Studio dashboard.
 
+![Dashboard Preview](dashboard-preview.png)
+
 ## Project Objectives
 
 * Measure total transactions, net sales, net profit, and average transaction rating.
